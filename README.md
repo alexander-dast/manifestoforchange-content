@@ -9,6 +9,6 @@ On manifestoforchange.org.uk, a 'live' navigable website version of this same co
 The suggestion for the workflow is:
 1. discussion and/or research
 2. a writeup of the key information in a clear and concise format
-3. pull request onto the current 'v{whatever_version}' branch
+3. pull request onto the current `v{whatever_version}` branch
 4. regular larger version releases for the 'manifesto' to `main` and indirectly to the website.
 But this may be subject to change.
