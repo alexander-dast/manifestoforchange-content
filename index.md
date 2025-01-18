@@ -4,7 +4,7 @@ Key to this is that prospective collaborators go into the project with a mentali
 
 In effect this means a willingness to accept:
 1. we all have ideals that aren't realistic or wouldn't appeal to a majority.
-2. there will be a comprise that is still ambitious, and will still create change.
+2. there will be a compromise that is still ambitious, and will still create change.
 3. change isn't easy and requires work and sacrifice, both in developing the ideas and through implementation
 
 A real issue in discourse at the moment is the ability to accept two things at once. There isn't one clear solution to world issues, no matter how easy it is for us to look for quick fixes.
