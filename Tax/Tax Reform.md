@@ -1,4 +1,3 @@
-# Tax
 ## Preface
 Tax affects every worker and business. What is fair is a question that remains largely unanswered.
 
