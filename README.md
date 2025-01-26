@@ -15,7 +15,9 @@ This may be subject to change, based on what is simple and works best.
 
 ## Systems:
 Website: code version managed on [GitHub](https://github.com/alexander-dast/manifestoforchange) currently using [Quartz](https://quartz.jzhao.xyz/) managed with [Vercel](https://vercel.com/alexander-dasts-projects)
+
 Content version managed on [Github](https://github.com/alexander-dast/manifestoforchange-content)
+
 Discussion on [Reddit](https://reddit.com/r/manifestoforchange)
 
 
