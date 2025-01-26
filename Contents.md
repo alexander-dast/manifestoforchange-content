@@ -1,2 +1,2 @@
 [[Tax Reform|Tax]]
-[[Proposal - British Infrastructure Bank]]
+[[Proposal - Infrastructure Bank]]

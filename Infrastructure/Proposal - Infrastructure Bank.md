@@ -1,4 +1,4 @@
-Profit doesn't need to come only by investing in the current privatised financial status quo, but in other forms of wealth - the standard of living and wellbeing that we all notice everyday. By making sure the infrastructure is working efficiently and being upgraded, maybe we can take a little bit of negativity out of our days.
+Value (and profit) doesn't only come only from the monetary wealth status quo, but in other forms of wealth - the standard of living and wellbeing that we all notice everyday, but can't put a price on. By making sure the infrastructure is working efficiently and being upgraded, maybe we can take a little bit of negativity out of our days.
 
 ## Taking a stake in our collective future. 
 
