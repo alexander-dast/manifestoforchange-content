@@ -1,11 +1,11 @@
 ## Preface
-Tax affects every worker and business. What is fair is a question that remains largely unanswered.
+Tax affects every worker and business. What tax levels are fair is a question that remains largely unanswered.
 
-Tax can cause discontent if too high as it adds resistance to the ability of individuals to innovate by flattening the gain curve. It can make it seem like extra work or skill is not valued. Most would argue that incentivising work is a good target, but to what degree can be open to interpretation.
+Tax can cause discontent if too high as it adds resistance to the ability of individuals to innovate by flattening out the 'benefits'. It can make it seem like extra work or skill is not valued. Most would argue that incentivising work is a good target, but to what degree can be open to interpretation.
 
 Discontent can lead to people emigrating to somewhere with more favourable tax conditions (human-capital-flight).
 
-In general, most may argue that the removal of tax altogether is out of the question. Tax pays for many things that people feel are essential: the police, healthcare, infrastructure, the military. It also pays for things that would not be funded privately either due to risk, or a lack of profitability such as culture or long term R&D. Just because things aren't profitable may not mean they don't offer tangible benefits to the public.
+In general, most may argue that the removal of tax altogether is out of the question. Tax pays for many things that people feel are essential: the police, healthcare, infrastructure, the military. It also pays for things that would not be funded privately either due to risk, or a lack of profitability such as the culture sector or long term R&D. Just because things aren't profitable may not mean they don't offer tangible benefits to the public.
 ## In the UK
 In the UK, tax tends to fall on the broadest shoulders, with the proportion taken increasing arbitrarily as pay goes up. 
 ### Simple reforms to the tax system
