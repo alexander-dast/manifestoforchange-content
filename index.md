@@ -1,3 +1,8 @@
+---
+title:
+  - Welcome!
+---
+
  *manifestoforchange.org.uk* aims to be a crowdsourced, repository of knowledge, ongoing research, and discussion of real ideas. It should be full of thoughts for how we can enact 'real change' to the system we live in. It is focused towards the United Kingdom, but really the ideas should be applicable anywhere.
 
 Key to this is that prospective collaborators go into the project with a **mentality of** **ambitious compromise**. 
