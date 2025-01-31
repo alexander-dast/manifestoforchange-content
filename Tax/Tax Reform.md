@@ -13,3 +13,4 @@ In the UK, tax tends to fall on the broadest shoulders, with the proportion take
 2. Removing the double taxation of work by rolling National Insurance into income tax. If we value workers, why is it more unfavourable to earn money in this way.
 ### More complex reforms
 1. Reform the personal allowance. It seems like the personal allowance and minimum wage could be rolled into one. A set tax free minimum rate that all workers should be paid. Simply, if it costs a certain amount to live (the minimum wage) then this should be an untaxed sum.
+

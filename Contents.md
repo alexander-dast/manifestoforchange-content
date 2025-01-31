@@ -1,2 +1,2 @@
 [[Tax Reform|Tax]]
-[[Proposal - Infrastructure Bank]]
+[[Infrastructure Bank]]
