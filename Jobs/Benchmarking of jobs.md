@@ -1,5 +1,9 @@
-#Background #Meta-analysis #WIP
-
+---
+tags:
+  - Background
+  - Meta-analysis
+  - WIP
+---
 ## Introduction
 While there is proposed to be a 'free market' of jobs, in recent years, a much more rigid approach to pay has appeared, where using 'benchmarking' data, companies choose how much to pay their workers. For example, in an engineering company, the pay-setters will acquire (generally purchase) a dataset of salaries for various job types and seniorities. This data is then compared with current salaries of employees, and pay-rises and pay-bands are then set.
 
