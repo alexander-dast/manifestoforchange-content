@@ -4,7 +4,7 @@ In relation to this, our argument is that the two arms of political discourse (l
 
 Perhaps this could be described as **pragmatic progressivism**, though getting bogged down in political definitions is counter to the mission of change.
 ## Some Plans For The Future
-1. Approach each issue from multiple perspectives (would likely require contributions of different authors). An attempt then to try to peer-review these and try to find similarities perhaps in the intended outcome, to try to break down the barriers and attempt to lead to a shared perspective.
+1. Approach each issue from multiple perspectives (this likely requires contributions of different authors). An attempt then to try to peer-review these and try to find similarities perhaps in the intended outcome, to try to break down the barriers and attempt to lead to a shared perspective.
 ```mermaid
 stateDiagram-v2
 
@@ -18,5 +18,14 @@ Idea2 --> id1
 ## General Philosophy
 1. Simple and readable is better but not to the detriment of an idea - if an idea can be written in less words, without losing any of the essence it should be. 
 2. Evidenced ideas are better. This can be your own data collection and provision, in which case the tools/data should be open access. It can also mean collecting research sources, in which case more (but **relevant**) sources are better. These can be attached as footnotes.[^1], or inline depending on individual preference.
+
+## Tag
+
+| Tag            | Description                                                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| #Background    | A page to describe the background concepts, should describe nothing innovative, but useful to be referenced in a #Proposal       |
+| #Meta-analysis | A sub-tag for #Background to describe pages where an overview is given of findings with reference to multiple different studies. |
+| #Proposal      | A page that describes a policy concept.                                                                                          |
+| #WIP           | A work in progress.                                                                                                              |
 
 [^1]: This is an example of a reference
