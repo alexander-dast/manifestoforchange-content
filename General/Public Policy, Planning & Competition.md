@@ -28,7 +28,7 @@ Planning and competition come hand in hand in the UK.
  > 
  > Most importantly these targets need to be clear and unambiguous, so that industry can rest assured that they won't make the changes now just for the goals to shift in the near future.
 
-### 3. Ensure speed to market with continuous engagement over pre-planning and excess friction, prioritising stakeholder input and adaptability throughout the process
+#### 3. Ensure speed to market with continuous engagement over pre-planning and excess friction, prioritising stakeholder input and adaptability throughout the process
 
 > [!TIP] Excess planning, no progress
 >  It seems as if many projects require 100s of pages of documents just to reach a stage where they are able to go through competition stages of the tender process. A good planning system would value ideas over excess dependence on consulting and documentation. Risks and priorities should be assessed continuously, with a focus on adaptibility of ideas.
