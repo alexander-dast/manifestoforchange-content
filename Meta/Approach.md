@@ -19,13 +19,14 @@ Idea2 --> id1
 1. Simple and readable is better but not to the detriment of an idea - if an idea can be written in less words, without losing any of the essence it should be. 
 2. Evidenced ideas are better. This can be your own data collection and provision, in which case the tools/data should be open access. It can also mean collecting research sources, in which case more (but **relevant**) sources are better. These can be attached as footnotes.[^1], or inline depending on individual preference.
 
+
 ## Tag
 
-| Tag            | Description                                                                                                                      |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| #Background    | A page to describe the background concepts, should describe nothing innovative, but useful to be referenced in a #Proposal       |
-| #Meta-analysis | A sub-tag for #Background to describe pages where an overview is given of findings with reference to multiple different studies. |
-| #Proposal      | A page that describes a policy concept.                                                                                          |
-| #WIP           | A work in progress.                                                                                                              |
+| Tag               | Description                                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[Background]]    | A page to describe the background concepts, should describe nothing innovative, but useful to be referenced in a [[Proposal]]       |
+| [[Meta-Analysis]] | A sub-tag for [[Background]] to describe pages where an overview is given of findings with reference to multiple different studies. |
+| [[Proposal]]      | A page that describes a policy concept.                                                                                             |
+| [[WIP]]           | A work in progress.                                                                                                                 |
 
 [^1]: This is an example of a reference
