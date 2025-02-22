@@ -19,7 +19,7 @@ Sometimes the political landscape leads to apathy, and a feeling that things can
 
 Ideally this set of information should be a record of ideas, and the discussion, explanation and research that has gone into making them. The actual process of making that happen is not complete, so some work will have to go into the actual technical side of making this vision possible, read more on this [[README]].
 
-[[Contents]] aims to act as a central list of all key 'policy' / 'discussion' topics, to keep track of important pages. [[Approach]] discusses the 'system' with which this project should be approached.
+[[Contents]] will aim to act as a central list of all key 'policy' / 'discussion' topics, to keep track of important pages. [[Approach]] discusses the 'system' with which this project should be approached.
 
 
 

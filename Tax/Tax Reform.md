@@ -12,5 +12,5 @@ In the UK, tax tends to fall on the broadest shoulders, with the proportion take
 1. Fixing the removal of the personal allowance. This is an unnecessary and arbitrary cliff-edge that leads to a high marginal tax rate.
 2. Removing the double taxation of work by rolling National Insurance into income tax. If we value workers, why is it more unfavourable to earn money in this way.
 ### More complex reforms
-1. Reform the personal allowance. The personal allowance and minimum wage could be rolled into one idea. A set tax free minimum rate that all workers should be paid. Simply, if it costs a certain [[Basic Sustenance|amount to live]] (the minimum wage) then this should be an untaxed sum.
+1. Reform the personal allowance. The personal allowance and minimum wage could be rolled into one idea. A set tax free minimum rate that all workers should be paid. Simply, if it costs a certain [[Basic Necessities for All|amount to live]] (the minimum wage) then this should be an untaxed sum.
 
