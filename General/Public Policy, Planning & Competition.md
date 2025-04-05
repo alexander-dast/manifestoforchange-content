@@ -6,9 +6,13 @@ tags:
 ---
 ## Introduction
 
-Currently it seems planning and competition laws in the UK stifle rather then improve innovation, or perhaps they are engineered in a way that isn't maximal?
+Currently it seems planning and competition laws in the UK stifle rather then improve innovation, or perhaps they are created in a way that isn't maximal?
 
-Is there an argument for shooting ourselves in the foot. If the progression towards innovation is stifled by monopolistic tendencies and the regulators step in, but stifle innovation with excess bureaucracy, is it at a net negative to UK industry. Can UK workers end up worse off with the regulators in place? Regulators should be there to avoid obvious pitfalls rather then stifle innovation.
+Is there an argument for shooting ourselves in the foot. If the progress towards innovation is stifled by monopolistic tendencies and the regulators step in, but stifle innovation with excess bureaucracy, is it at a net negative to UK industry?
+
+![[competition_vs_regulation.png]]
+
+Can the workforce sometimes end up worse off with the regulators in place? Regulators should be there to avoid obvious pitfalls and anti-competitive practice rather then stifle innovation.
 
 Planning and competition come hand in hand in the UK.
 ### What is the aim of a planning & competition system?
