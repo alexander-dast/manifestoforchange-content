@@ -12,6 +12,7 @@ An ageing population brings with it many large issues which can then compound an
 How can 30% of children be in poverty?
 
 ![[relative_poverty_rate_demographic.png]]
+
 Figure 14 collected from [^poverty_in_children] shows the stark demographic changes in poverty. 
 
 [^poverty_in_children]: Bourquin, Pascale, Mike Brewer, and Thomas Wernham. ‘Trends in Income and Wealth Inequalities’. _Oxford Open Economics_ 3, no. Supplement_1 (1 July 2024): i103–46. [https://doi.org/10.1093/ooec/odad100](https://doi.org/10.1093/ooec/odad100).
